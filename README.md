@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vidas ao meu perfil 🫀 
 
-<!--
-**arthurisidoro/arthurisidoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- meu nome é arthur isidoro
 
-Here are some ideas to get you started:
+-estou estudndo no alura
+- estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minhs organizao e compartilhamento e dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar em contatos comigo📧
+
+oooo1115895084sp@al.educacao.sp.gov.br
+
+@arthur_isidoro08
+
+! []
+https://media1.tenor.com/m/XlzVCeCUYLIAAAAd/dog-smile-shyboos.gif
