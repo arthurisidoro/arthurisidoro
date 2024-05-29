@@ -2,13 +2,12 @@
 
 - meu nome é arthur isidoro
 
--estou estudndo no [alura](https:/www.alura.com.br)
+-estou estudando no [alura](https:/www.alura.com.br)
 - estou me desenvolvendo na linguagem javaScript
-- utilizo esse espaço para minhs organizao e compartilhamento e dos meus projetos desenvolvidos
+- utilizo esse espaço para minhas organizao e compartilhamento e dos meus projetos desenvolvidos
 
 ### voce entrar em contatos comigo📧
-
-oooo1115895084sp@al.educacao.sp.gov.br
+00001115895084sp@al.educacao.sp.gov.br
 
 @arthur_isidoro08
 
